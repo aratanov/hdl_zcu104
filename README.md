@@ -3,6 +3,7 @@
 
 [Analog Devices Inc.](http://www.analog.com/en/index.html) HDL libraries and projects.
 
+Version 2021.2.
 
 ## License
 
